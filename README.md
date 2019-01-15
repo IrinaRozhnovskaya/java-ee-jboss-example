@@ -11,5 +11,6 @@ target\java-ee-jboss-example.war >> ${JBOSS_HOME}/standalone/deployments/
 ~~~~
 cd ${JBOSS_HOME}/bin/ standalone.bat
 ~~~~
-
+~~~~
  open http://localhost:8080/java-ee-jboss-example/
+ ~~~~
